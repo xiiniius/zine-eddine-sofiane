@@ -1,0 +1,129 @@
+/***************************************************IDS************************************************/
+#title{
+    background-color: #FF4C68;
+        color: white;
+}
+
+#features{
+    padding: 7% 15%;
+}
+
+#testimonials{
+    text-align: center;
+    background-color: #EF8172;
+    color: white;
+}
+
+#press{
+    background-color: #EF8172;
+    padding-bottom: 3%;
+    text-align: center;
+}
+
+#pricing{
+    padding:100px ;
+    text-align: center;
+}
+
+/***************************************************ELEMENTS******************************************/
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+} 
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 1.5rem;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:400 ;
+}
+
+p{
+    color: #8F8F8F;
+}
+
+
+
+/***************************************************CLASSES********************************************/
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.navbar{
+    padding:0 0 4.5rem;
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-weight: lighter;
+}
+
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+
+.title-image{
+    width: 60%;
+    transform: rotate(25deg);
+}
+
+.features-box{
+    text-align:center ;
+    padding: 5%;
+}
+
+.icon{
+    color: #EF8172;
+    margin-bottom: 1.2rem;
+}
+
+.icon:hover{
+    color:#FF4C68 ;
+}
+
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.testimonial-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+.carousel-item{
+        padding: 7% 15%;
+}
+
+.full-button{
+    width: 100%;
+}
+
+.pricing-col{
+    padding: 4% 3%;
+}
